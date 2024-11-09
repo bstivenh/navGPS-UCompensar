@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GPSNativas</string>
+    <string name="api_key_google">AIzaSyDBU9b6v8bKLoyCnCsiURY96yv7SwFaDSc</string>
+    <string name="mi_activity_gps">GPS</string>
+    <string name="hint_latitud">Latitud</string>
+    <string name="hint_longitud">Longitud</string>
 </resources>
